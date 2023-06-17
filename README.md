@@ -3,10 +3,8 @@
 ## Table of Contents
 
 * [Description](#description)
-* [Access](#access)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 
 ## Description
 

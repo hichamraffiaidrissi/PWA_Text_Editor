@@ -1,4 +1,4 @@
-# pwa-text-editor
+# PWA_Text_Editor
 
 ## Table of Contents
 

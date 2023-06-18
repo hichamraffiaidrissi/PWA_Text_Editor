@@ -27,7 +27,8 @@ SO THAT I can reliably retrieve them for later use.
 
 
 ### Live Application:
-This app is deployed on Heroku here is the link below:
+This app is deployed on Heroku.
+
 (https://obscure-river-65549-3441198f511c.herokuapp.com/)
 
 ## Installation

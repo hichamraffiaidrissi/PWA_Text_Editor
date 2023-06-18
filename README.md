@@ -26,8 +26,9 @@ SO THAT I can reliably retrieve them for later use.
 ![Screenshot-3](./client/src/images/Screenshot-3.png)
 
 
-### Live Application
-(https://obscure-river-65549-3441198f511c.herokuapp.com/).
+### Live Application:
+This app is deployed on Heroku here is the link below:
+(https://obscure-river-65549-3441198f511c.herokuapp.com/)
 
 ## Installation
 

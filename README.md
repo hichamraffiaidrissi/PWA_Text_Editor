@@ -27,7 +27,7 @@ SO THAT I can reliably retrieve them for later use.
 
 
 ### Live Application
- [hHeroku link](https://obscure-river-65549-3441198f511c.herokuapp.com/).
+(https://obscure-river-65549-3441198f511c.herokuapp.com/).
 
 ## Installation
 
